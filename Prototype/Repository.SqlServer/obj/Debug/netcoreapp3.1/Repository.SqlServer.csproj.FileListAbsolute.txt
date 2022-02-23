@@ -1,0 +1,10 @@
+C:\Prototype\Repository.SqlServer\bin\Debug\netcoreapp3.1\Repository.SqlServer.deps.json
+C:\Prototype\Repository.SqlServer\bin\Debug\netcoreapp3.1\Repository.SqlServer.dll
+C:\Prototype\Repository.SqlServer\bin\Debug\netcoreapp3.1\Repository.SqlServer.pdb
+C:\Prototype\Repository.SqlServer\obj\Debug\netcoreapp3.1\Repository.SqlServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Prototype\Repository.SqlServer\obj\Debug\netcoreapp3.1\Repository.SqlServer.AssemblyInfoInputs.cache
+C:\Prototype\Repository.SqlServer\obj\Debug\netcoreapp3.1\Repository.SqlServer.AssemblyInfo.cs
+C:\Prototype\Repository.SqlServer\obj\Debug\netcoreapp3.1\Repository.SqlServer.csproj.CoreCompileInputs.cache
+C:\Prototype\Repository.SqlServer\obj\Debug\netcoreapp3.1\Repository.SqlServer.dll
+C:\Prototype\Repository.SqlServer\obj\Debug\netcoreapp3.1\Repository.SqlServer.pdb
+C:\Prototype\Repository.SqlServer\obj\Debug\netcoreapp3.1\Repository.SqlServer.csproj.AssemblyReference.cache

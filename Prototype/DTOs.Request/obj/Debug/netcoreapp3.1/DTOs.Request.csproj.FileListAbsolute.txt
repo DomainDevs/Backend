@@ -1,0 +1,9 @@
+C:\Prototype\DTOs.Request\bin\Debug\netcoreapp3.1\DTOs.Request.deps.json
+C:\Prototype\DTOs.Request\bin\Debug\netcoreapp3.1\DTOs.Request.dll
+C:\Prototype\DTOs.Request\bin\Debug\netcoreapp3.1\DTOs.Request.pdb
+C:\Prototype\DTOs.Request\obj\Debug\netcoreapp3.1\DTOs.Request.GeneratedMSBuildEditorConfig.editorconfig
+C:\Prototype\DTOs.Request\obj\Debug\netcoreapp3.1\DTOs.Request.AssemblyInfoInputs.cache
+C:\Prototype\DTOs.Request\obj\Debug\netcoreapp3.1\DTOs.Request.AssemblyInfo.cs
+C:\Prototype\DTOs.Request\obj\Debug\netcoreapp3.1\DTOs.Request.csproj.CoreCompileInputs.cache
+C:\Prototype\DTOs.Request\obj\Debug\netcoreapp3.1\DTOs.Request.dll
+C:\Prototype\DTOs.Request\obj\Debug\netcoreapp3.1\DTOs.Request.pdb

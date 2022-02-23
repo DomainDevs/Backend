@@ -1,0 +1,13 @@
+C:\Prototype\Repository.Interfaces\bin\Debug\netcoreapp3.1\Repository.Interfaces.deps.json
+C:\Prototype\Repository.Interfaces\bin\Debug\netcoreapp3.1\Repository.Interfaces.dll
+C:\Prototype\Repository.Interfaces\bin\Debug\netcoreapp3.1\Repository.Interfaces.pdb
+C:\Prototype\Repository.Interfaces\obj\Debug\netcoreapp3.1\Repository.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Prototype\Repository.Interfaces\obj\Debug\netcoreapp3.1\Repository.Interfaces.AssemblyInfoInputs.cache
+C:\Prototype\Repository.Interfaces\obj\Debug\netcoreapp3.1\Repository.Interfaces.AssemblyInfo.cs
+C:\Prototype\Repository.Interfaces\obj\Debug\netcoreapp3.1\Repository.Interfaces.csproj.CoreCompileInputs.cache
+C:\Prototype\Repository.Interfaces\obj\Debug\netcoreapp3.1\Repository.Interfaces.dll
+C:\Prototype\Repository.Interfaces\obj\Debug\netcoreapp3.1\Repository.Interfaces.pdb
+C:\Prototype\Repository.Interfaces\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Prototype\Repository.Interfaces\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Prototype\Repository.Interfaces\obj\Debug\netcoreapp3.1\Repository.Interfaces.csproj.AssemblyReference.cache
+C:\Prototype\Repository.Interfaces\obj\Debug\netcoreapp3.1\Repository.Interfaces.csproj.CopyComplete

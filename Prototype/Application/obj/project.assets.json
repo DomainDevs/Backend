@@ -1,0 +1,173 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "DTOs.Request/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/DTOs.Request.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DTOs.Request.dll": {}
+        }
+      },
+      "DTOs.Response/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/DTOs.Response.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DTOs.Response.dll": {}
+        }
+      },
+      "Entities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Entities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Entities.dll": {}
+        }
+      },
+      "Repository.Interfaces/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Entities": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Repository.Interfaces.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Repository.Interfaces.dll": {}
+        }
+      },
+      "UOW.Interfaces/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Repository.Interfaces": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/UOW.Interfaces.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UOW.Interfaces.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DTOs.Request/1.0.0": {
+      "type": "project",
+      "path": "../DTOs.Request/DTOs.Request.csproj",
+      "msbuildProject": "../DTOs.Request/DTOs.Request.csproj"
+    },
+    "DTOs.Response/1.0.0": {
+      "type": "project",
+      "path": "../DTOs.Response/DTOs.Response.csproj",
+      "msbuildProject": "../DTOs.Response/DTOs.Response.csproj"
+    },
+    "Entities/1.0.0": {
+      "type": "project",
+      "path": "../Entities/Entities.csproj",
+      "msbuildProject": "../Entities/Entities.csproj"
+    },
+    "Repository.Interfaces/1.0.0": {
+      "type": "project",
+      "path": "../Repository.Interfaces/Repository.Interfaces.csproj",
+      "msbuildProject": "../Repository.Interfaces/Repository.Interfaces.csproj"
+    },
+    "UOW.Interfaces/1.0.0": {
+      "type": "project",
+      "path": "../UOW.Interfaces/UOW.Interfaces.csproj",
+      "msbuildProject": "../UOW.Interfaces/UOW.Interfaces.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "DTOs.Request >= 1.0.0",
+      "DTOs.Response >= 1.0.0",
+      "Entities >= 1.0.0",
+      "UOW.Interfaces >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\dfperez\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Prototype\\Application\\Application.csproj",
+      "projectName": "Application",
+      "projectPath": "C:\\Prototype\\Application\\Application.csproj",
+      "packagesPath": "C:\\Users\\dfperez\\.nuget\\packages\\",
+      "outputPath": "C:\\Prototype\\Application\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\dfperez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "C:\\Prototype\\DTOs.Request\\DTOs.Request.csproj": {
+              "projectPath": "C:\\Prototype\\DTOs.Request\\DTOs.Request.csproj"
+            },
+            "C:\\Prototype\\DTOs.Response\\DTOs.Response.csproj": {
+              "projectPath": "C:\\Prototype\\DTOs.Response\\DTOs.Response.csproj"
+            },
+            "C:\\Prototype\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Prototype\\Entities\\Entities.csproj"
+            },
+            "C:\\Prototype\\UOW.Interfaces\\UOW.Interfaces.csproj": {
+              "projectPath": "C:\\Prototype\\UOW.Interfaces\\UOW.Interfaces.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

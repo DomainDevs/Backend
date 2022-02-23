@@ -1,0 +1,15 @@
+C:\Prototype\Repository.SqlServer\bin\Debug\netcoreapp3.1\Repository.Sybase.deps.json
+C:\Prototype\Repository.SqlServer\bin\Debug\netcoreapp3.1\Repository.Sybase.dll
+C:\Prototype\Repository.SqlServer\bin\Debug\netcoreapp3.1\Repository.Sybase.pdb
+C:\Prototype\Repository.SqlServer\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Prototype\Repository.SqlServer\bin\Debug\netcoreapp3.1\Repository.Interfaces.dll
+C:\Prototype\Repository.SqlServer\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Prototype\Repository.SqlServer\bin\Debug\netcoreapp3.1\Repository.Interfaces.pdb
+C:\Prototype\Repository.SqlServer\obj\Debug\netcoreapp3.1\Repository.Sybase.csproj.AssemblyReference.cache
+C:\Prototype\Repository.SqlServer\obj\Debug\netcoreapp3.1\Repository.Sybase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Prototype\Repository.SqlServer\obj\Debug\netcoreapp3.1\Repository.Sybase.AssemblyInfoInputs.cache
+C:\Prototype\Repository.SqlServer\obj\Debug\netcoreapp3.1\Repository.Sybase.AssemblyInfo.cs
+C:\Prototype\Repository.SqlServer\obj\Debug\netcoreapp3.1\Repository.Sybase.csproj.CoreCompileInputs.cache
+C:\Prototype\Repository.SqlServer\obj\Debug\netcoreapp3.1\Repository.Sybase.csproj.CopyComplete
+C:\Prototype\Repository.SqlServer\obj\Debug\netcoreapp3.1\Repository.Sybase.dll
+C:\Prototype\Repository.SqlServer\obj\Debug\netcoreapp3.1\Repository.Sybase.pdb

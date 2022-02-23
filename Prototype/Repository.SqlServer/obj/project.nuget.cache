@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "mO/v+ucMFkJU5vb8YtO40r3XB7rVhlUMnlLDZoaZJS2BRLh+JihoQPKdGtSrIdA0OueR5cC33Rypwc1pd8HRkw==",
+  "success": true,
+  "projectFilePath": "C:\\Prototype\\Repository.SqlServer\\Repository.Sybase.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dfperez\\.nuget\\packages\\adonetcore.aseclient\\0.19.2\\adonetcore.aseclient.0.19.2.nupkg.sha512",
+    "C:\\Users\\dfperez\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\dfperez\\.nuget\\packages\\system.security.accesscontrol\\4.5.0\\system.security.accesscontrol.4.5.0.nupkg.sha512",
+    "C:\\Users\\dfperez\\.nuget\\packages\\system.security.permissions\\4.5.0\\system.security.permissions.4.5.0.nupkg.sha512",
+    "C:\\Users\\dfperez\\.nuget\\packages\\system.security.principal.windows\\4.5.0\\system.security.principal.windows.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,9 @@
+C:\Prototype\Settings\bin\Debug\netcoreapp3.1\Infrastructure.Settings.deps.json
+C:\Prototype\Settings\bin\Debug\netcoreapp3.1\Infrastructure.Settings.dll
+C:\Prototype\Settings\bin\Debug\netcoreapp3.1\Infrastructure.Settings.pdb
+C:\Prototype\Settings\obj\Debug\netcoreapp3.1\Infrastructure.Settings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Prototype\Settings\obj\Debug\netcoreapp3.1\Infrastructure.Settings.AssemblyInfoInputs.cache
+C:\Prototype\Settings\obj\Debug\netcoreapp3.1\Infrastructure.Settings.AssemblyInfo.cs
+C:\Prototype\Settings\obj\Debug\netcoreapp3.1\Infrastructure.Settings.csproj.CoreCompileInputs.cache
+C:\Prototype\Settings\obj\Debug\netcoreapp3.1\Infrastructure.Settings.dll
+C:\Prototype\Settings\obj\Debug\netcoreapp3.1\Infrastructure.Settings.pdb

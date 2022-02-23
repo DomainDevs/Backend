@@ -1,0 +1,15 @@
+C:\Prototype\UOW.Interfaces\bin\Debug\netcoreapp3.1\UOW.Interfaces.deps.json
+C:\Prototype\UOW.Interfaces\bin\Debug\netcoreapp3.1\UOW.Interfaces.dll
+C:\Prototype\UOW.Interfaces\bin\Debug\netcoreapp3.1\UOW.Interfaces.pdb
+C:\Prototype\UOW.Interfaces\obj\Debug\netcoreapp3.1\UOW.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Prototype\UOW.Interfaces\obj\Debug\netcoreapp3.1\UOW.Interfaces.AssemblyInfoInputs.cache
+C:\Prototype\UOW.Interfaces\obj\Debug\netcoreapp3.1\UOW.Interfaces.AssemblyInfo.cs
+C:\Prototype\UOW.Interfaces\obj\Debug\netcoreapp3.1\UOW.Interfaces.csproj.CoreCompileInputs.cache
+C:\Prototype\UOW.Interfaces\obj\Debug\netcoreapp3.1\UOW.Interfaces.dll
+C:\Prototype\UOW.Interfaces\obj\Debug\netcoreapp3.1\UOW.Interfaces.pdb
+C:\Prototype\UOW.Interfaces\obj\Debug\netcoreapp3.1\UOW.Interfaces.csproj.AssemblyReference.cache
+C:\Prototype\UOW.Interfaces\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Prototype\UOW.Interfaces\bin\Debug\netcoreapp3.1\Repository.Interfaces.dll
+C:\Prototype\UOW.Interfaces\bin\Debug\netcoreapp3.1\Repository.Interfaces.pdb
+C:\Prototype\UOW.Interfaces\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Prototype\UOW.Interfaces\obj\Debug\netcoreapp3.1\UOW.Interfaces.csproj.CopyComplete

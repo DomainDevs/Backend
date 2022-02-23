@@ -1,0 +1,10 @@
+C:\Prototype\Application.Exceptions\bin\Debug\netcoreapp3.1\Application.Exceptions.deps.json
+C:\Prototype\Application.Exceptions\bin\Debug\netcoreapp3.1\Application.Exceptions.dll
+C:\Prototype\Application.Exceptions\bin\Debug\netcoreapp3.1\Application.Exceptions.pdb
+C:\Prototype\Application.Exceptions\obj\Debug\netcoreapp3.1\Application.Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Prototype\Application.Exceptions\obj\Debug\netcoreapp3.1\Application.Exceptions.AssemblyInfoInputs.cache
+C:\Prototype\Application.Exceptions\obj\Debug\netcoreapp3.1\Application.Exceptions.AssemblyInfo.cs
+C:\Prototype\Application.Exceptions\obj\Debug\netcoreapp3.1\Application.Exceptions.csproj.CoreCompileInputs.cache
+C:\Prototype\Application.Exceptions\obj\Debug\netcoreapp3.1\Application.Exceptions.dll
+C:\Prototype\Application.Exceptions\obj\Debug\netcoreapp3.1\Application.Exceptions.pdb
+C:\Prototype\Application.Exceptions\obj\Debug\netcoreapp3.1\Application.Exceptions.csproj.AssemblyReference.cache
